@@ -25,7 +25,7 @@ DEVELOPMENT_MODE = os.getenv("DEVELOPMENT_MODE", "False") == "True"
 SECRET_KEY = 'lzj2axnee5!=1s5y17#ud4l^_n)krr*9wmn=^t6+o!^ry%&v_*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
