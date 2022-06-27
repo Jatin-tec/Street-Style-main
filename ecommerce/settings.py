@@ -27,7 +27,7 @@ SECRET_KEY = 'lzj2axnee5!=1s5y17#ud4l^_n)krr*9wmn=^t6+o!^ry%&v_*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['"DJANGO_ALLOWED_HOSTS"' , '127.0.0.1', 'street-style-main.herokuapp.com/']
+ALLOWED_HOSTS = ['"DJANGO_ALLOWED_HOSTS"' , '127.0.0.1', 'street-style-main.herokuapp.com', 'https://street-style-main.herokuapp.com']
 
 
 # Application definition
